@@ -42,4 +42,3 @@ UUID=A002C4C002C49CA2 /mnt/SharePart               ntfs    errors=remount-ro 0  
 # this is a example
 sudo mount -t ntfs /dev/sda3 /mnt/SharePart
 ```
-
